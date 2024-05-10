@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Singh</h1>
 <h3 align="center">Computer Science Undergaduate</h3>
 
-- 🌱 I’m currently learning **Penetration Testing & Cloud Security**
+- 🌱 I’m currently learning **Penetration Testing & Bug Hunting**
 
 - 📫 How to reach me **Akashsingh3846@gmail.com**
 
